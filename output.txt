@@ -1,0 +1,22 @@
+(venv) PS C:\Users\Atharva Pawar\Documents\GitHub\ImageMatchingPlatform> python .\matching.py
+Similarity Score: 0.6227
+(venv) PS C:\Users\Atharva Pawar\Documents\GitHub\ImageMatchingPlatform> python .\match2.py
+Feature-Based Similarity Score: 0.2506
+(venv) PS C:\Users\Atharva Pawar\Documents\GitHub\ImageMatchingPlatform> python .\match2.py
+Feature-Based Similarity Score: 0.1905
+(venv) PS C:\Users\Atharva Pawar\Documents\GitHub\ImageMatchingPlatform> python .\match2.py
+Feature-Based Similarity Score: 0.2446
+(venv) PS C:\Users\Atharva Pawar\Documents\GitHub\ImageMatchingPlatform> python .\match2.py
+Feature-Based Similarity Score: 0.2488
+(venv) PS C:\Users\Atharva Pawar\Documents\GitHub\ImageMatchingPlatform> python .\algo.py
+
+🔍 Sorted Similar Images:
+imgDb\ring2.jpg - Similarity: 0.2506
+imgDb\ring5.jpg - Similarity: 0.2488
+imgDb\ring4.jpg - Similarity: 0.2446
+imgDb\ring3.jpg - Similarity: 0.1905
+
+🏆 Top 3 Similar Images:
+imgDb\ring2.jpg - Similarity: 0.2506
+imgDb\ring5.jpg - Similarity: 0.2488
+imgDb\ring4.jpg - Similarity: 0.2446
