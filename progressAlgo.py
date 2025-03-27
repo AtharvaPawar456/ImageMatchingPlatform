@@ -109,3 +109,14 @@ if __name__ == "__main__":
     print("\n🏆 Top 3 Similar Images:")
     for topImage in sortedImages[:3]:
         print(f"{topImage['imgPath']} - Similarity: {topImage['similarityScore']:.4f}")
+
+
+
+"""
+
+🏆 Top 3 Similar Images:
+archive/Jewellery_Data/ring\ring_031.jpg - Similarity: 0.2861
+archive/Jewellery_Data/ring\ring_060.jpg - Similarity: 0.2791
+archive/Jewellery_Data/ring\ring_038.jpg - Similarity: 0.2732
+
+"""
