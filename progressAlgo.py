@@ -111,6 +111,11 @@ if __name__ == "__main__":
         print(f"{topImage['imgPath']} - Similarity: {topImage['similarityScore']:.4f}")
 
 
+for top3 image 
+create a new folder "top3similarimgs"
+and copy the images inside the folder
+everytime empty the fodler before copying any image
+
 
 """
 
